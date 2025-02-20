@@ -60,8 +60,4 @@ Soy estudiante de **Manejo y Conservación de Suelos y Aguas** en la Universidad
 
 
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
